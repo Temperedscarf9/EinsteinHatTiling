@@ -1,0 +1,6 @@
+{
+  "name": "Einstein Monotile Tiling Studio",
+  "description": "An interactive visualization and renderer of the aperiodic Hat monotile and its Tile(a, b) family including Hat, Turtle, Spectre, Comet, and Chevron.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
